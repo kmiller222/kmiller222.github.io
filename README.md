@@ -23,4 +23,4 @@ Kim, G.\*, **Miller, K.**\*, & Waichler, C\*. (2020). _The biological characteri
   
   * Research conducted with the Colby Environmental Studies department for our Problems in Environmental Science Senior Capstone research experience, and as part of the <a href = "https://sites.dartmouth.edu/epscor-blooms/">NSF-Funded EPSCoR Blooms Project</a>
   
-  * Data analysis that I conducted for this report can be <a href = "https://kmiller222.github.io/es494_data/"> found here</a>.
+  * Data analysis that I conducted for this report can be <a href = "https://github.com/kmiller222/es494_data"> found here</a>.
