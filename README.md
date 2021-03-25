@@ -2,8 +2,7 @@
 
 1. <a href = "https://kmiller222.github.io/bi382_remodeling_project/">SIRV disease model of the impacts of vaccination on a hypothetical influenza outbreak</a>, based on a recreation of the paper _Impact of influenza vaccine-modified infectivity on attack rate, case fatality ratio, and mortality_ [(Nah et al. 2020)](https://www.sciencedirect.com/science/article/pii/S0022519320300400?casa_token=ULe1vAIzFXEAAAAA:CPIUbNeMo9TVeiYXF06gzjRgGDaQOXtWIpzfIrJb5ZeqVdC6zolnLKhBXLFy3-Kalc_NFTkV_7o)
 
-2. <a href = "https://kmiller222.github.io/es218_project/">
-Exploratory Analysis of United States Vehicular Accidents</a>
+2. <a href = "https://kmiller222.github.io/es218_project/">Exploratory Analysis of United States Vehicular Accidents</a>
 
 ----
 
