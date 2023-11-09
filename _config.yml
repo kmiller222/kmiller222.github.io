@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 logo: 
 title: Kirsten Miller
-description: I am a recent graduate of Colby College with a Bachelor's Degree in Environmental Science and Biology who is interested in data analysis and visualization. Here are some samples of my work, including data analysis and research-based projects.
+description: I am an early-career environmental health scientist and epidemiolgist currently working at <a href="www.erg.com">Eastern Research Group</a>. I have a Bachelor's Degree in Environmental Science and Biology from Colby College. Here are some samples of my academic work, including data analysis and research-based projects.
 navigation:
   - title: Setup
     url: setup
